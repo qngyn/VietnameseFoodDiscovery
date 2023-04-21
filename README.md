@@ -1,13 +1,13 @@
 #  Vietnamese Food Discovery
 
-##About this app:
+## About this app:
 Vietnamese cuisine is very diverse due to its geography, climate, and history. Even though we are a tropical country, we don't have any accurate average temperature for the whole country. In addition to that, the fluctuation of temperature happens differently for different regions. Our country also has an ideal living environment: we have a lot of rivers, lakes, and beaches. These give us a huge advantage in food resources and give us an opportunity to develop different dishes. Even though Vietnam is a small country, it borders China, Laos, and Cambodia, which may influence some of our dishes. In addition to that, our history of wars is also another influence on different kinds of dishes. With those resources, Vietnam has a variety of cuisine for different regions, different places, and at different times of the year. 
 However, even with the enrichment in our cuisine, most of our dishes are not very recognizable, as foreigners mostly only heard about Pho or Banh Mi. During one of my discussions in class, when we talked about our culture and cuisine, my friends asked if Pho was my favorite. Therefore, this app was inspired by helping people learn and discover more about Vietnamese (traditional) cuisines. Playing a small quiz in this app will give you a range of Vietnamese dishes along with their information. Even though the list of dishes in this app is not inclusive, playing and taking a quiz via this app can help introduce people to Vietnamese culture and food besides Pho and Banh Mi.
 
 
 
 
-##Sources:
+## Sources:
 - For the food description: 
     - Tasteatlas: https://www.tasteatlas.com/
     - VickyPham Blog: https://www.vickypham.com/
