@@ -1,4 +1,4 @@
-#  Vietnamese Food Discovery
+#  Vietnamese Food Discovery - WWDC23 Swift Student Challenge [ACCEPTED]
 
 ## About this app:
 Vietnamese cuisine is very diverse due to its geography, climate, and history. Even though we are a tropical country, we don't have any accurate average temperature for the whole country. In addition to that, the fluctuation of temperature happens differently for different regions. Our country also has an ideal living environment: we have a lot of rivers, lakes, and beaches. These give us a huge advantage in food resources and give us an opportunity to develop different dishes. Even though Vietnam is a small country, it borders China, Laos, and Cambodia, which may influence some of our dishes. In addition to that, our history of wars is also another influence on different kinds of dishes. With those resources, Vietnam has a variety of cuisine for different regions, different places, and at different times of the year. 
